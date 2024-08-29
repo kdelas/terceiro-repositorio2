@@ -18,7 +18,7 @@ const perguntas = [
         "Ao enfatizar a feijoada apenas como um prato de origem europeia, a promoção da feijoada não contribui para a desmistificação de estereótipos raciais nem para a preservação agroecológica.",
         "Promover a feijoada como um símbolo da diversidade cultural, destacando sua conexão com práticas agroecológicas e a herança afro-brasileira, pode ajudar a combater estereótipos raciais ao reconhecer e valorizar a contribuição cultural e a importância ambiental dos ingredientes."
         ]
-    }
+    },
     {
         enunciado: "A feijoada, ao refletir aspectos da culinária afro-brasileira, pode ser interpretada como um símbolo tanto da preservação cultural das comunidades afrodescendentes quanto das desigualdades e do racismo histórico que influenciaram sua origem e consumo?",
         alternativas: [
@@ -32,7 +32,7 @@ const perguntas = [
         " A feijoada, embora considerada um prato típico e tradicional do Brasil, tem suas origens na culinária dos escravizados africanos, refletindo as relações de poder e opressão da época.",
         "A história da feijoada pode ilustrar as desigualdades sociais e raciais, destacando a necessidade de uma reavaliação crítica das tradições e da forma como elas são interpretadas e celebradas."
         ]
-    }
+    },
     {
         enunciado: "A preservação da feijoada como símbolo cultural afro-brasileiro está mais ligada à sua resistência ao racismo ou à sua valorização contemporânea?",
         alternativas: [
