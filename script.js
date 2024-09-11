@@ -62,7 +62,7 @@ const perguntas = [
 
                 texto: " Ao promover a sustentabilidade e o respeito às culturas tradicionais, a agroecologia valoriza a contribuição afro-brasileira à culinária, como a feijoada, e combate o racismo ao garantir que essas práticas sejam respeitadas e preservadas.",
                 afirmacao: " Ao incentivar a produção em larga escala de alimentos tradicionais, a agroecologia contribui para a uniformização das práticas alimentares, minimizando as diferenças culturais e, consequentemente, combatendo o racismo."
-            },
+            }
         ]
     }
 ];
